@@ -1,0 +1,52 @@
+from collections import deque
+
+
+PLAYERS = 9 
+LAST_MARBLE = 25 
+
+players = [0] * PLAYERS
+player = 0
+
+marble = 0
+current = marble
+game = [current] 
+index = 0
+
+
+def circle(n):
+    global game
+    return n % len(game)
+
+print marble, game
+marble += 1
+while marble <= LAST_MARBLE:
+    if (marble % 23) == 0:
+        index = circle(index - 6)
+
+        players[player] += marble 
+        players[player] += game[index-1]
+
+        del game[index-1]
+    else:
+        if len(game) == 1:
+            index = 1
+            game = [0,1]
+
+        elif len(game) == 2:
+            index = 1
+            game = [0,2,1]
+        else:
+            game = game[:index] + [marble] + game[index:]
+            index = circle(index + 2)
+
+
+    print [player+1], game[index], game
+    marble += 1
+    player = (player + 1) % PLAYERS
+
+print (
+        PLAYERS, "players;",
+        "last marble is worth", marble,
+        "high score is", max(players)
+        )
+

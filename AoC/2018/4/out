@@ -1,0 +1,1385 @@
+4 {}
+new Guard #587
+5 {}
+new minute 5 for Guard #587
+6 {}
+new minute 6 for Guard #587
+7 {}
+new minute 7 for Guard #587
+8 {}
+new minute 8 for Guard #587
+9 {}
+new minute 9 for Guard #587
+10 {}
+new minute 10 for Guard #587
+11 {}
+new minute 11 for Guard #587
+12 {}
+new minute 12 for Guard #587
+13 {}
+new minute 13 for Guard #587
+14 {}
+new minute 14 for Guard #587
+15 {}
+new minute 15 for Guard #587
+16 {}
+new minute 16 for Guard #587
+17 {}
+new minute 17 for Guard #587
+18 {}
+new minute 18 for Guard #587
+19 {}
+new minute 19 for Guard #587
+20 {}
+new minute 20 for Guard #587
+21 {}
+new minute 21 for Guard #587
+22 {}
+new minute 22 for Guard #587
+23 {}
+new minute 23 for Guard #587
+24 {}
+new minute 24 for Guard #587
+25 {}
+new minute 25 for Guard #587
+26 {}
+new minute 26 for Guard #587
+27 {}
+new minute 27 for Guard #587
+28 {}
+new minute 28 for Guard #587
+29 {}
+new minute 29 for Guard #587
+30 {}
+new minute 30 for Guard #587
+31 {}
+new minute 31 for Guard #587
+32 {}
+new minute 32 for Guard #587
+33 {}
+new minute 33 for Guard #587
+34 {}
+new minute 34 for Guard #587
+35 {}
+new minute 35 for Guard #587
+54 {}
+new Guard #2113
+55 {}
+new minute 55 for Guard #2113
+13 {'Guard #587': 1}
+new Guard #2699
+14 {'Guard #587': 1}
+new minute 14 for Guard #2699
+15 {'Guard #587': 1}
+new minute 15 for Guard #2699
+16 {'Guard #587': 1}
+new minute 16 for Guard #2699
+17 {'Guard #587': 1}
+new minute 17 for Guard #2699
+18 {'Guard #587': 1}
+new minute 18 for Guard #2699
+19 {'Guard #587': 1}
+new minute 19 for Guard #2699
+20 {'Guard #587': 1}
+new minute 20 for Guard #2699
+21 {'Guard #587': 1}
+new minute 21 for Guard #2699
+22 {'Guard #587': 1}
+new minute 22 for Guard #2699
+23 {'Guard #587': 1}
+new minute 23 for Guard #2699
+24 {'Guard #587': 1}
+new minute 24 for Guard #2699
+25 {'Guard #587': 1}
+new minute 25 for Guard #2699
+26 {'Guard #587': 1}
+new minute 26 for Guard #2699
+27 {'Guard #587': 1}
+new minute 27 for Guard #2699
+28 {'Guard #587': 1}
+new minute 28 for Guard #2699
+29 {'Guard #587': 1}
+new minute 29 for Guard #2699
+30 {'Guard #587': 1}
+new minute 30 for Guard #2699
+31 {'Guard #587': 1}
+new minute 31 for Guard #2699
+32 {'Guard #587': 1}
+new minute 32 for Guard #2699
+33 {'Guard #587': 1}
+new minute 33 for Guard #2699
+34 {'Guard #587': 1}
+new minute 34 for Guard #2699
+35 {'Guard #587': 1}
+new minute 35 for Guard #2699
+36 {}
+new minute 36 for Guard #2699
+14 {'Guard #587': 1, 'Guard #2699': 1}
+new Guard #593
+15 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 15 for Guard #593
+16 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 16 for Guard #593
+17 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 17 for Guard #593
+18 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 18 for Guard #593
+19 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 19 for Guard #593
+20 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 20 for Guard #593
+21 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 21 for Guard #593
+22 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 22 for Guard #593
+23 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 23 for Guard #593
+24 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 24 for Guard #593
+25 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 25 for Guard #593
+26 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 26 for Guard #593
+27 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 27 for Guard #593
+28 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 28 for Guard #593
+29 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 29 for Guard #593
+30 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 30 for Guard #593
+31 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 31 for Guard #593
+14 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new Guard #1543
+15 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 15 for Guard #1543
+4 {'Guard #587': 1}
+new Guard #2039
+5 {'Guard #587': 1}
+new minute 5 for Guard #2039
+6 {'Guard #587': 1}
+new minute 6 for Guard #2039
+7 {'Guard #587': 1}
+new minute 7 for Guard #2039
+8 {'Guard #587': 1}
+new minute 8 for Guard #2039
+9 {'Guard #587': 1}
+new minute 9 for Guard #2039
+10 {'Guard #587': 1}
+new minute 10 for Guard #2039
+11 {'Guard #587': 1}
+new minute 11 for Guard #2039
+12 {'Guard #587': 1}
+new minute 12 for Guard #2039
+13 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 13 for Guard #2039
+14 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #1543': 1, 'Guard #593': 1}
+new minute 14 for Guard #2039
+15 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #1543': 1, 'Guard #593': 1}
+new minute 15 for Guard #2039
+16 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 16 for Guard #2039
+17 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 17 for Guard #2039
+18 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 18 for Guard #2039
+19 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 19 for Guard #2039
+20 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 20 for Guard #2039
+21 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 21 for Guard #2039
+22 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 22 for Guard #2039
+23 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 23 for Guard #2039
+24 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 24 for Guard #2039
+25 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 25 for Guard #2039
+26 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 26 for Guard #2039
+27 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 27 for Guard #2039
+28 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 28 for Guard #2039
+29 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 29 for Guard #2039
+30 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 30 for Guard #2039
+31 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #593': 1}
+new minute 31 for Guard #2039
+32 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 32 for Guard #2039
+33 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 33 for Guard #2039
+34 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 34 for Guard #2039
+35 {'Guard #587': 1, 'Guard #2699': 1}
+new minute 35 for Guard #2039
+11 {'Guard #587': 1, 'Guard #2039': 1}
+new Guard #1601
+12 {'Guard #587': 1, 'Guard #2039': 1}
+new minute 12 for Guard #1601
+13 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 13 for Guard #1601
+14 {'Guard #2039': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #1543': 1, 'Guard #593': 1}
+new minute 14 for Guard #1601
+15 {'Guard #2039': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #1543': 1, 'Guard #593': 1}
+new minute 15 for Guard #1601
+16 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 16 for Guard #1601
+17 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 17 for Guard #1601
+19 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new Guard #1553
+20 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 20 for Guard #1553
+21 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 21 for Guard #1553
+22 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 22 for Guard #1553
+23 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 23 for Guard #1553
+24 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 24 for Guard #1553
+25 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 25 for Guard #1553
+26 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 26 for Guard #1553
+27 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 27 for Guard #1553
+28 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 28 for Guard #1553
+29 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 29 for Guard #1553
+30 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 30 for Guard #1553
+31 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 31 for Guard #1553
+32 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 32 for Guard #1553
+33 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 33 for Guard #1553
+34 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 34 for Guard #1553
+35 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 35 for Guard #1553
+36 {'Guard #2699': 1}
+new minute 36 for Guard #1553
+37 {}
+new minute 37 for Guard #1553
+38 {}
+new minute 38 for Guard #1553
+39 {}
+new minute 39 for Guard #1553
+40 {}
+new minute 40 for Guard #1553
+41 {}
+new minute 41 for Guard #1553
+42 {}
+new minute 42 for Guard #1553
+43 {}
+new minute 43 for Guard #1553
+44 {}
+new minute 44 for Guard #1553
+45 {}
+new minute 45 for Guard #1553
+17 {'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new Guard #1433
+18 {'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 18 for Guard #1433
+19 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 19 for Guard #1433
+20 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 20 for Guard #1433
+21 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 21 for Guard #1433
+22 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 22 for Guard #1433
+23 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 23 for Guard #1433
+24 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 24 for Guard #1433
+25 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 25 for Guard #1433
+26 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 26 for Guard #1433
+27 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 27 for Guard #1433
+28 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 28 for Guard #1433
+29 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 29 for Guard #1433
+30 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 30 for Guard #1433
+31 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 31 for Guard #1433
+32 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 32 for Guard #1433
+33 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 33 for Guard #1433
+34 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 34 for Guard #1433
+35 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 35 for Guard #1433
+6 {'Guard #587': 1, 'Guard #2039': 1}
+new Guard #3121
+7 {'Guard #587': 1, 'Guard #2039': 1}
+new minute 7 for Guard #3121
+7 {'Guard #3121': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new Guard #1549
+8 {'Guard #587': 1, 'Guard #2039': 1}
+new minute 8 for Guard #1549
+9 {'Guard #587': 1, 'Guard #2039': 1}
+new minute 9 for Guard #1549
+10 {'Guard #587': 1, 'Guard #2039': 1}
+new minute 10 for Guard #1549
+11 {'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 11 for Guard #1549
+12 {'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 12 for Guard #1549
+13 {'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 13 for Guard #1549
+14 {'Guard #1543': 1, 'Guard #593': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 14 for Guard #1549
+15 {'Guard #1543': 1, 'Guard #593': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 15 for Guard #1549
+16 {'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 16 for Guard #1549
+17 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 17 for Guard #1549
+18 {'Guard #1433': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1, 'Guard #593': 1}
+new minute 18 for Guard #1549
+19 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 19 for Guard #1549
+20 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 20 for Guard #1549
+21 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 21 for Guard #1549
+22 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 22 for Guard #1549
+23 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 23 for Guard #1549
+24 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 24 for Guard #1549
+25 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 25 for Guard #1549
+26 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 26 for Guard #1549
+27 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 27 for Guard #1549
+28 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 28 for Guard #1549
+29 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 29 for Guard #1549
+30 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 30 for Guard #1549
+31 {'Guard #593': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 31 for Guard #1549
+32 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #1433': 1, 'Guard #2039': 1}
+new minute 32 for Guard #1549
+33 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #1433': 1, 'Guard #2039': 1}
+new minute 33 for Guard #1549
+34 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #1433': 1, 'Guard #2039': 1}
+new minute 34 for Guard #1549
+35 {'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #1433': 1, 'Guard #2039': 1}
+new minute 35 for Guard #1549
+36 {'Guard #1553': 1, 'Guard #2699': 1}
+new minute 36 for Guard #1549
+37 {'Guard #1553': 1}
+new minute 37 for Guard #1549
+38 {'Guard #1553': 1}
+new minute 38 for Guard #1549
+39 {'Guard #1553': 1}
+new minute 39 for Guard #1549
+40 {'Guard #1553': 1}
+new minute 40 for Guard #1549
+41 {'Guard #1553': 1}
+new minute 41 for Guard #1549
+42 {'Guard #1553': 1}
+new minute 42 for Guard #1549
+43 {'Guard #1553': 1}
+new minute 43 for Guard #1549
+44 {'Guard #1553': 1}
+new minute 44 for Guard #1549
+45 {'Guard #1553': 1}
+new minute 45 for Guard #1549
+46 {}
+new minute 46 for Guard #1549
+47 {}
+new minute 47 for Guard #1549
+48 {}
+new minute 48 for Guard #1549
+49 {}
+new minute 49 for Guard #1549
+50 {}
+new minute 50 for Guard #1549
+51 {}
+new minute 51 for Guard #1549
+52 {}
+new minute 52 for Guard #1549
+22 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new Guard #181
+23 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 23 for Guard #181
+24 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 24 for Guard #181
+25 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 25 for Guard #181
+26 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 26 for Guard #181
+27 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 27 for Guard #181
+28 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 28 for Guard #181
+29 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 29 for Guard #181
+30 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 30 for Guard #181
+31 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 31 for Guard #181
+32 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 32 for Guard #181
+33 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 33 for Guard #181
+34 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 34 for Guard #181
+35 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 35 for Guard #181
+36 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #2699': 1}
+new minute 36 for Guard #181
+37 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 37 for Guard #181
+38 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 38 for Guard #181
+39 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 39 for Guard #181
+40 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 40 for Guard #181
+41 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 41 for Guard #181
+42 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 42 for Guard #181
+44 {'Guard #1553': 1, 'Guard #1549': 1}
+new Guard #229
+45 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 45 for Guard #229
+46 {'Guard #1549': 1}
+new minute 46 for Guard #229
+47 {'Guard #1549': 1}
+new minute 47 for Guard #229
+48 {'Guard #1549': 1}
+new Guard #199
+49 {'Guard #1549': 1}
+new minute 49 for Guard #199
+50 {'Guard #1549': 1}
+new minute 50 for Guard #199
+51 {'Guard #1549': 1}
+new minute 51 for Guard #199
+52 {'Guard #1549': 1}
+new minute 52 for Guard #199
+53 {}
+new minute 53 for Guard #199
+10 {'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new Guard #1597
+11 {'Guard #1549': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 11 for Guard #1597
+12 {'Guard #1549': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 12 for Guard #1597
+13 {'Guard #1549': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2039': 1}
+new minute 13 for Guard #1597
+14 {'Guard #1543': 1, 'Guard #593': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 14 for Guard #1597
+15 {'Guard #1543': 1, 'Guard #593': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 15 for Guard #1597
+16 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 16 for Guard #1597
+17 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 17 for Guard #1597
+18 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 18 for Guard #1597
+19 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 19 for Guard #1597
+20 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 20 for Guard #1597
+21 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 21 for Guard #1597
+24 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new Guard #1489
+25 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 25 for Guard #1489
+26 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 26 for Guard #1489
+27 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 27 for Guard #1489
+28 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 28 for Guard #1489
+29 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 29 for Guard #1489
+30 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 30 for Guard #1489
+31 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 31 for Guard #1489
+35 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new Guard #1039
+36 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #181': 1}
+new minute 36 for Guard #1039
+37 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 37 for Guard #1039
+38 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 38 for Guard #1039
+39 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 39 for Guard #1039
+40 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 40 for Guard #1039
+41 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 41 for Guard #1039
+42 {'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 42 for Guard #1039
+43 {'Guard #1553': 1, 'Guard #1549': 1}
+new minute 43 for Guard #1039
+44 {'Guard #1553': 1, 'Guard #229': 1, 'Guard #1549': 1}
+new minute 44 for Guard #1039
+45 {'Guard #1553': 1, 'Guard #229': 1, 'Guard #1549': 1}
+new minute 45 for Guard #1039
+46 {'Guard #229': 1, 'Guard #1549': 1}
+new minute 46 for Guard #1039
+47 {'Guard #229': 1, 'Guard #1549': 1}
+new minute 47 for Guard #1039
+48 {'Guard #199': 1, 'Guard #1549': 1}
+new minute 48 for Guard #1039
+49 {'Guard #199': 1, 'Guard #1549': 1}
+new minute 49 for Guard #1039
+50 {'Guard #199': 1, 'Guard #1549': 1}
+new minute 50 for Guard #1039
+51 {'Guard #199': 1, 'Guard #1549': 1}
+new minute 51 for Guard #1039
+35 {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new Guard #2927
+36 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #181': 1}
+new minute 36 for Guard #2927
+37 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 37 for Guard #2927
+38 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 38 for Guard #2927
+39 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 39 for Guard #2927
+40 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 40 for Guard #2927
+41 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 41 for Guard #2927
+42 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #181': 1}
+new minute 42 for Guard #2927
+43 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1}
+new minute 43 for Guard #2927
+44 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #229': 1, 'Guard #1549': 1}
+new minute 44 for Guard #2927
+45 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #229': 1, 'Guard #1549': 1}
+new minute 45 for Guard #2927
+46 {'Guard #1039': 1, 'Guard #229': 1, 'Guard #1549': 1}
+new minute 46 for Guard #2927
+5 {'Guard #587': 1, 'Guard #2039': 1}
+new Guard #239
+6 {'Guard #3121': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 6 for Guard #239
+7 {'Guard #3121': 1, 'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 7 for Guard #239
+8 {'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 8 for Guard #239
+9 {'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 9 for Guard #239
+10 {'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1, 'Guard #1597': 1}
+new minute 10 for Guard #239
+11 {'Guard #1549': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1, 'Guard #1597': 1}
+new minute 11 for Guard #239
+12 {'Guard #1549': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1, 'Guard #1597': 1}
+new minute 12 for Guard #239
+13 {'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 13 for Guard #239
+14 {'Guard #1543': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 14 for Guard #239
+15 {'Guard #1543': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 15 for Guard #239
+16 {'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 16 for Guard #239
+17 {'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 17 for Guard #239
+18 {'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 18 for Guard #239
+19 {'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 19 for Guard #239
+20 {'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 20 for Guard #239
+21 {'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 21 for Guard #239
+22 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 22 for Guard #239
+23 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 23 for Guard #239
+24 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 24 for Guard #239
+25 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 25 for Guard #239
+2 {}
+new Guard #317
+3 {}
+new minute 3 for Guard #317
+4 {'Guard #587': 1, 'Guard #2039': 1}
+new minute 4 for Guard #317
+5 {'Guard #239': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 5 for Guard #317
+6 {'Guard #3121': 1, 'Guard #239': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 6 for Guard #317
+7 {'Guard #3121': 1, 'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1, 'Guard #239': 1}
+new minute 7 for Guard #317
+8 {'Guard #239': 1, 'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 8 for Guard #317
+9 {'Guard #239': 1, 'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 9 for Guard #317
+10 {'Guard #239': 1, 'Guard #1549': 1, 'Guard #587': 1, 'Guard #2039': 1, 'Guard #1597': 1}
+new minute 10 for Guard #317
+11 {'Guard #239': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 11 for Guard #317
+12 {'Guard #239': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 12 for Guard #317
+13 {'Guard #239': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 13 for Guard #317
+14 {'Guard #239': 1, 'Guard #1543': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 14 for Guard #317
+15 {'Guard #239': 1, 'Guard #1543': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2699': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2039': 1}
+new minute 15 for Guard #317
+16 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 16 for Guard #317
+17 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1601': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 17 for Guard #317
+18 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 18 for Guard #317
+19 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 19 for Guard #317
+20 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 20 for Guard #317
+21 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1597': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 21 for Guard #317
+22 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 22 for Guard #317
+23 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 23 for Guard #317
+24 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 24 for Guard #317
+25 {'Guard #239': 1, 'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 25 for Guard #317
+26 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 26 for Guard #317
+27 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 27 for Guard #317
+28 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 28 for Guard #317
+29 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 29 for Guard #317
+30 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 30 for Guard #317
+31 {'Guard #593': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1489': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 31 for Guard #317
+32 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 32 for Guard #317
+33 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 33 for Guard #317
+34 {'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1}
+new minute 34 for Guard #317
+35 {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #1433': 1, 'Guard #2039': 1, 'Guard #181': 1, 'Guard #1553': 1, 'Guard #587': 1, 'Guard #2699': 1, 'Guard #2927': 1}
+new minute 35 for Guard #317
+36 {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #181': 1, 'Guard #2927': 1, 'Guard #1553': 1, 'Guard #2699': 1}
+new minute 36 for Guard #317
+37 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #2927': 1, 'Guard #181': 1}
+new minute 37 for Guard #317
+38 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #2927': 1, 'Guard #181': 1}
+new minute 38 for Guard #317
+39 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #2927': 1, 'Guard #181': 1}
+new minute 39 for Guard #317
+40 {'Guard #1039': 1, 'Guard #1553': 1, 'Guard #1549': 1, 'Guard #2927': 1, 'Guard #181': 1}
+new minute 40 for Guard #317
+Guard #2113 5:40:00
+Guard #199 2:24:00
+Guard #229 1:34:00
+Guard #1543 3:13:00
+Guard #593 2:34:00
+Guard #1039 2:53:00
+Guard #1597 8:05:00
+Guard #1549 9:27:00
+Guard #1433 6:38:00
+Guard #2699 5:44:00
+Guard #3121 5:46:00
+Guard #317 2:29:00
+Guard #181 3:50:00
+Guard #1489 8:43:00
+Guard #239 2:28:00
+Guard #1553 7:05:00
+Guard #1601 7:49:00
+Guard #587 9:03:00
+Guard #2039 4:18:00
+Guard #2927 2:09:00
+minutes{0: {},
+ 1: {},
+ 2: {'Guard #317': 1},
+ 3: {'Guard #317': 1},
+ 4: {'Guard #2039': 1, 'Guard #317': 1, 'Guard #587': 1},
+ 5: {'Guard #2039': 1, 'Guard #239': 1, 'Guard #317': 1, 'Guard #587': 1},
+ 6: {'Guard #2039': 1,
+     'Guard #239': 1,
+     'Guard #3121': 1,
+     'Guard #317': 1,
+     'Guard #587': 1},
+ 7: {'Guard #1549': 1,
+     'Guard #2039': 1,
+     'Guard #239': 1,
+     'Guard #3121': 1,
+     'Guard #317': 1,
+     'Guard #587': 1},
+ 8: {'Guard #1549': 1,
+     'Guard #2039': 1,
+     'Guard #239': 1,
+     'Guard #317': 1,
+     'Guard #587': 1},
+ 9: {'Guard #1549': 1,
+     'Guard #2039': 1,
+     'Guard #239': 1,
+     'Guard #317': 1,
+     'Guard #587': 1},
+ 10: {'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 11: {'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #1601': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 12: {'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #1601': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 13: {'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #1601': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 14: {'Guard #1543': 1,
+      'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #1601': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 15: {'Guard #1543': 1,
+      'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #1601': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 16: {'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #1601': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 17: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #1601': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 18: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1597': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 19: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #1597': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 20: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #1597': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 21: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #1597': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 22: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 23: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 24: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 25: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #239': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 26: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 27: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 28: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 29: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 30: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 31: {'Guard #1433': 1,
+      'Guard #1489': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1,
+      'Guard #593': 1},
+ 32: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 33: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 34: {'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 35: {'Guard #1039': 1,
+      'Guard #1433': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2039': 1,
+      'Guard #2699': 1,
+      'Guard #2927': 1,
+      'Guard #317': 1,
+      'Guard #587': 1},
+ 36: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2699': 1,
+      'Guard #2927': 1,
+      'Guard #317': 1},
+ 37: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2927': 1,
+      'Guard #317': 1},
+ 38: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2927': 1,
+      'Guard #317': 1},
+ 39: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2927': 1,
+      'Guard #317': 1},
+ 40: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2927': 1,
+      'Guard #317': 1},
+ 41: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2927': 1},
+ 42: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #181': 1,
+      'Guard #2927': 1},
+ 43: {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #1553': 1, 'Guard #2927': 1},
+ 44: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #229': 1,
+      'Guard #2927': 1},
+ 45: {'Guard #1039': 1,
+      'Guard #1549': 1,
+      'Guard #1553': 1,
+      'Guard #229': 1,
+      'Guard #2927': 1},
+ 46: {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #229': 1, 'Guard #2927': 1},
+ 47: {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #229': 1},
+ 48: {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #199': 1},
+ 49: {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #199': 1},
+ 50: {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #199': 1},
+ 51: {'Guard #1039': 1, 'Guard #1549': 1, 'Guard #199': 1},
+ 52: {'Guard #1549': 1, 'Guard #199': 1},
+ 53: {'Guard #199': 1},
+ 54: {'Guard #2113': 1},
+ 55: {'Guard #2113': 1},
+ 56: {},
+ 57: {},
+ 58: {}}
+None
+guards{'Guard #1039': {35: 1,
+                 36: 1,
+                 37: 1,
+                 38: 1,
+                 39: 1,
+                 40: 1,
+                 41: 1,
+                 42: 1,
+                 43: 1,
+                 44: 1,
+                 45: 1,
+                 46: 1,
+                 47: 1,
+                 48: 1,
+                 49: 1,
+                 50: 1,
+                 51: 1},
+ 'Guard #1433': {17: 1,
+                 18: 1,
+                 19: 1,
+                 20: 1,
+                 21: 1,
+                 22: 1,
+                 23: 1,
+                 24: 1,
+                 25: 1,
+                 26: 1,
+                 27: 1,
+                 28: 1,
+                 29: 1,
+                 30: 1,
+                 31: 1,
+                 32: 1,
+                 33: 1,
+                 34: 1,
+                 35: 1},
+ 'Guard #1489': {24: 1, 25: 1, 26: 1, 27: 1, 28: 1, 29: 1, 30: 1, 31: 1},
+ 'Guard #1543': {14: 1, 15: 1},
+ 'Guard #1549': {7: 1,
+                 8: 1,
+                 9: 1,
+                 10: 1,
+                 11: 1,
+                 12: 1,
+                 13: 1,
+                 14: 1,
+                 15: 1,
+                 16: 1,
+                 17: 1,
+                 18: 1,
+                 19: 1,
+                 20: 1,
+                 21: 1,
+                 22: 1,
+                 23: 1,
+                 24: 1,
+                 25: 1,
+                 26: 1,
+                 27: 1,
+                 28: 1,
+                 29: 1,
+                 30: 1,
+                 31: 1,
+                 32: 1,
+                 33: 1,
+                 34: 1,
+                 35: 1,
+                 36: 1,
+                 37: 1,
+                 38: 1,
+                 39: 1,
+                 40: 1,
+                 41: 1,
+                 42: 1,
+                 43: 1,
+                 44: 1,
+                 45: 1,
+                 46: 1,
+                 47: 1,
+                 48: 1,
+                 49: 1,
+                 50: 1,
+                 51: 1,
+                 52: 1},
+ 'Guard #1553': {19: 1,
+                 20: 1,
+                 21: 1,
+                 22: 1,
+                 23: 1,
+                 24: 1,
+                 25: 1,
+                 26: 1,
+                 27: 1,
+                 28: 1,
+                 29: 1,
+                 30: 1,
+                 31: 1,
+                 32: 1,
+                 33: 1,
+                 34: 1,
+                 35: 1,
+                 36: 1,
+                 37: 1,
+                 38: 1,
+                 39: 1,
+                 40: 1,
+                 41: 1,
+                 42: 1,
+                 43: 1,
+                 44: 1,
+                 45: 1},
+ 'Guard #1597': {10: 1,
+                 11: 1,
+                 12: 1,
+                 13: 1,
+                 14: 1,
+                 15: 1,
+                 16: 1,
+                 17: 1,
+                 18: 1,
+                 19: 1,
+                 20: 1,
+                 21: 1},
+ 'Guard #1601': {11: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 1, 17: 1},
+ 'Guard #181': {22: 1,
+                23: 1,
+                24: 1,
+                25: 1,
+                26: 1,
+                27: 1,
+                28: 1,
+                29: 1,
+                30: 1,
+                31: 1,
+                32: 1,
+                33: 1,
+                34: 1,
+                35: 1,
+                36: 1,
+                37: 1,
+                38: 1,
+                39: 1,
+                40: 1,
+                41: 1,
+                42: 1},
+ 'Guard #199': {48: 1, 49: 1, 50: 1, 51: 1, 52: 1, 53: 1},
+ 'Guard #2039': {4: 1,
+                 5: 1,
+                 6: 1,
+                 7: 1,
+                 8: 1,
+                 9: 1,
+                 10: 1,
+                 11: 1,
+                 12: 1,
+                 13: 1,
+                 14: 1,
+                 15: 1,
+                 16: 1,
+                 17: 1,
+                 18: 1,
+                 19: 1,
+                 20: 1,
+                 21: 1,
+                 22: 1,
+                 23: 1,
+                 24: 1,
+                 25: 1,
+                 26: 1,
+                 27: 1,
+                 28: 1,
+                 29: 1,
+                 30: 1,
+                 31: 1,
+                 32: 1,
+                 33: 1,
+                 34: 1,
+                 35: 1},
+ 'Guard #2113': {54: 1, 55: 1},
+ 'Guard #229': {44: 1, 45: 1, 46: 1, 47: 1},
+ 'Guard #239': {5: 1,
+                6: 1,
+                7: 1,
+                8: 1,
+                9: 1,
+                10: 1,
+                11: 1,
+                12: 1,
+                13: 1,
+                14: 1,
+                15: 1,
+                16: 1,
+                17: 1,
+                18: 1,
+                19: 1,
+                20: 1,
+                21: 1,
+                22: 1,
+                23: 1,
+                24: 1,
+                25: 1},
+ 'Guard #2699': {13: 1,
+                 14: 1,
+                 15: 1,
+                 16: 1,
+                 17: 1,
+                 18: 1,
+                 19: 1,
+                 20: 1,
+                 21: 1,
+                 22: 1,
+                 23: 1,
+                 24: 1,
+                 25: 1,
+                 26: 1,
+                 27: 1,
+                 28: 1,
+                 29: 1,
+                 30: 1,
+                 31: 1,
+                 32: 1,
+                 33: 1,
+                 34: 1,
+                 35: 1,
+                 36: 1},
+ 'Guard #2927': {35: 1,
+                 36: 1,
+                 37: 1,
+                 38: 1,
+                 39: 1,
+                 40: 1,
+                 41: 1,
+                 42: 1,
+                 43: 1,
+                 44: 1,
+                 45: 1,
+                 46: 1},
+ 'Guard #3121': {6: 1, 7: 1},
+ 'Guard #317': {2: 1,
+                3: 1,
+                4: 1,
+                5: 1,
+                6: 1,
+                7: 1,
+                8: 1,
+                9: 1,
+                10: 1,
+                11: 1,
+                12: 1,
+                13: 1,
+                14: 1,
+                15: 1,
+                16: 1,
+                17: 1,
+                18: 1,
+                19: 1,
+                20: 1,
+                21: 1,
+                22: 1,
+                23: 1,
+                24: 1,
+                25: 1,
+                26: 1,
+                27: 1,
+                28: 1,
+                29: 1,
+                30: 1,
+                31: 1,
+                32: 1,
+                33: 1,
+                34: 1,
+                35: 1,
+                36: 1,
+                37: 1,
+                38: 1,
+                39: 1,
+                40: 1},
+ 'Guard #587': {4: 1,
+                5: 1,
+                6: 1,
+                7: 1,
+                8: 1,
+                9: 1,
+                10: 1,
+                11: 1,
+                12: 1,
+                13: 1,
+                14: 1,
+                15: 1,
+                16: 1,
+                17: 1,
+                18: 1,
+                19: 1,
+                20: 1,
+                21: 1,
+                22: 1,
+                23: 1,
+                24: 1,
+                25: 1,
+                26: 1,
+                27: 1,
+                28: 1,
+                29: 1,
+                30: 1,
+                31: 1,
+                32: 1,
+                33: 1,
+                34: 1,
+                35: 1},
+ 'Guard #593': {14: 1,
+                15: 1,
+                16: 1,
+                17: 1,
+                18: 1,
+                19: 1,
+                20: 1,
+                21: 1,
+                22: 1,
+                23: 1,
+                24: 1,
+                25: 1,
+                26: 1,
+                27: 1,
+                28: 1,
+                29: 1,
+                30: 1,
+                31: 1}}
+None

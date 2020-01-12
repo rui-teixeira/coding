@@ -1,0 +1,618 @@
+items ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+defaultdict(<type 'list'>, {'A': ['Y', 'P', 'S', 'N', 'E', 'O', 'M'], 'C': ['O', 'X', 'D'], 'B': ['Q', 'A', 'O', 'G', 'H'], 'E': ['G', 'P', 'D', 'N', 'C'], 'D': ['P'], 'G': ['T', 'O', 'X'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G', 'T'], 'K': ['D', 'A', 'Z', 'X'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C', 'D', 'T'], 'L': ['Y'], 'O': ['Y'], 'N': ['D', 'H', 'P', 'T'], 'Q': ['T', 'Y'], 'S': ['T', 'O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M', 'Y'], 'U': ['R', 'K', 'D', 'M', 'I', 'E', 'H', 'C'], 'T': ['D'], 'W': ['R', 'Z', 'I', 'X', 'T'], 'V': ['X', 'K', 'W', 'N', 'I', 'B', 'A', 'M', 'Q'], 'Z': ['N', 'M', 'E', 'P', 'Y']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing D
+D is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing H
+H is ready
+B required H
+B still needs ['Q', 'A', 'O', 'G']
+N required H
+N still needs ['D', 'P', 'T']
+U required H
+U still needs ['R', 'K', 'D', 'M', 'I', 'E', 'C']
+items ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+defaultdict(<type 'list'>, {'A': ['Y', 'P', 'S', 'N', 'E', 'O', 'M'], 'C': ['O', 'X', 'D'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'P', 'D', 'N', 'C'], 'D': ['P'], 'G': ['T', 'O', 'X'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G', 'T'], 'H': [], 'K': ['D', 'A', 'Z', 'X'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C', 'D', 'T'], 'L': ['Y'], 'O': ['Y'], 'N': ['D', 'P', 'T'], 'Q': ['T', 'Y'], 'S': ['T', 'O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M', 'Y'], 'U': ['R', 'K', 'D', 'M', 'I', 'E', 'C'], 'T': ['D'], 'W': ['R', 'Z', 'I', 'X', 'T'], 'V': ['X', 'K', 'W', 'N', 'I', 'B', 'A', 'M', 'Q'], 'Z': ['N', 'M', 'E', 'P', 'Y']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing D
+D is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing L
+L is NOT ready
+testing M
+M is NOT ready
+testing N
+N is NOT ready
+testing O
+O is NOT ready
+testing P
+P is ready
+A required P
+A still needs ['Y', 'S', 'N', 'E', 'O', 'M']
+E required P
+E still needs ['G', 'D', 'N', 'C']
+D required P
+D still needs []
+N required P
+N still needs ['D', 'T']
+Z required P
+Z still needs ['N', 'M', 'E', 'Y']
+items ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+defaultdict(<type 'list'>, {'A': ['Y', 'S', 'N', 'E', 'O', 'M'], 'C': ['O', 'X', 'D'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'D', 'N', 'C'], 'D': [], 'G': ['T', 'O', 'X'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G', 'T'], 'H': [], 'K': ['D', 'A', 'Z', 'X'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C', 'D', 'T'], 'L': ['Y'], 'O': ['Y'], 'N': ['D', 'T'], 'Q': ['T', 'Y'], 'P': [], 'S': ['T', 'O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M', 'Y'], 'U': ['R', 'K', 'D', 'M', 'I', 'E', 'C'], 'T': ['D'], 'W': ['R', 'Z', 'I', 'X', 'T'], 'V': ['X', 'K', 'W', 'N', 'I', 'B', 'A', 'M', 'Q'], 'Z': ['N', 'M', 'E', 'Y']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing D
+D is ready
+C required D
+C still needs ['O', 'X']
+E required D
+E still needs ['G', 'N', 'C']
+K required D
+K still needs ['A', 'Z', 'X']
+M required D
+M still needs ['L', 'S', 'O', 'C', 'T']
+N required D
+N still needs ['T']
+U required D
+U still needs ['R', 'K', 'M', 'I', 'E', 'C']
+T required D
+T still needs []
+items ['A', 'B', 'C', 'E', 'F', 'G', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+defaultdict(<type 'list'>, {'A': ['Y', 'S', 'N', 'E', 'O', 'M'], 'C': ['O', 'X'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'N', 'C'], 'D': [], 'G': ['T', 'O', 'X'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G', 'T'], 'H': [], 'K': ['A', 'Z', 'X'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C', 'T'], 'L': ['Y'], 'O': ['Y'], 'N': ['T'], 'Q': ['T', 'Y'], 'P': [], 'S': ['T', 'O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M', 'Y'], 'U': ['R', 'K', 'M', 'I', 'E', 'C'], 'T': [], 'W': ['R', 'Z', 'I', 'X', 'T'], 'V': ['X', 'K', 'W', 'N', 'I', 'B', 'A', 'M', 'Q'], 'Z': ['N', 'M', 'E', 'Y']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing L
+L is NOT ready
+testing M
+M is NOT ready
+testing N
+N is NOT ready
+testing O
+O is NOT ready
+testing Q
+Q is NOT ready
+testing R
+R is NOT ready
+testing S
+S is NOT ready
+testing T
+T is ready
+G required T
+G still needs ['O', 'X']
+I required T
+I still needs ['E', 'S', 'G']
+M required T
+M still needs ['L', 'S', 'O', 'C']
+N required T
+N still needs []
+Q required T
+Q still needs ['Y']
+S required T
+S still needs ['O']
+W required T
+W still needs ['R', 'Z', 'I', 'X']
+items ['A', 'B', 'C', 'E', 'F', 'G', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'Q', 'R', 'S', 'U', 'V', 'W', 'X', 'Y', 'Z']
+defaultdict(<type 'list'>, {'A': ['Y', 'S', 'N', 'E', 'O', 'M'], 'C': ['O', 'X'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'N', 'C'], 'D': [], 'G': ['O', 'X'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G'], 'H': [], 'K': ['A', 'Z', 'X'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C'], 'L': ['Y'], 'O': ['Y'], 'N': [], 'Q': ['Y'], 'P': [], 'S': ['O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M', 'Y'], 'U': ['R', 'K', 'M', 'I', 'E', 'C'], 'T': [], 'W': ['R', 'Z', 'I', 'X'], 'V': ['X', 'K', 'W', 'N', 'I', 'B', 'A', 'M', 'Q'], 'Z': ['N', 'M', 'E', 'Y']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing L
+L is NOT ready
+testing M
+M is NOT ready
+testing N
+N is ready
+A required N
+A still needs ['Y', 'S', 'E', 'O', 'M']
+E required N
+E still needs ['G', 'C']
+V required N
+V still needs ['X', 'K', 'W', 'I', 'B', 'A', 'M', 'Q']
+Z required N
+Z still needs ['M', 'E', 'Y']
+items ['A', 'B', 'C', 'E', 'F', 'G', 'I', 'J', 'K', 'L', 'M', 'O', 'Q', 'R', 'S', 'U', 'V', 'W', 'X', 'Y', 'Z']
+defaultdict(<type 'list'>, {'A': ['Y', 'S', 'E', 'O', 'M'], 'C': ['O', 'X'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'C'], 'D': [], 'G': ['O', 'X'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G'], 'H': [], 'K': ['A', 'Z', 'X'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C'], 'L': ['Y'], 'O': ['Y'], 'N': [], 'Q': ['Y'], 'P': [], 'S': ['O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M', 'Y'], 'U': ['R', 'K', 'M', 'I', 'E', 'C'], 'T': [], 'W': ['R', 'Z', 'I', 'X'], 'V': ['X', 'K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'Z': ['M', 'E', 'Y']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing L
+L is NOT ready
+testing M
+M is NOT ready
+testing O
+O is NOT ready
+testing Q
+Q is NOT ready
+testing R
+R is NOT ready
+testing S
+S is NOT ready
+testing U
+U is NOT ready
+testing V
+V is NOT ready
+testing W
+W is NOT ready
+testing X
+X is ready
+C required X
+C still needs ['O']
+G required X
+G still needs ['O']
+K required X
+K still needs ['A', 'Z']
+W required X
+W still needs ['R', 'Z', 'I']
+V required X
+V still needs ['K', 'W', 'I', 'B', 'A', 'M', 'Q']
+items ['A', 'B', 'C', 'E', 'F', 'G', 'I', 'J', 'K', 'L', 'M', 'O', 'Q', 'R', 'S', 'U', 'V', 'W', 'Y', 'Z']
+defaultdict(<type 'list'>, {'A': ['Y', 'S', 'E', 'O', 'M'], 'C': ['O'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'C'], 'D': [], 'G': ['O'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C'], 'L': ['Y'], 'O': ['Y'], 'N': [], 'Q': ['Y'], 'P': [], 'S': ['O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M', 'Y'], 'U': ['R', 'K', 'M', 'I', 'E', 'C'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'X': [], 'Z': ['M', 'E', 'Y']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing L
+L is NOT ready
+testing M
+M is NOT ready
+testing O
+O is NOT ready
+testing Q
+Q is NOT ready
+testing R
+R is NOT ready
+testing S
+S is NOT ready
+testing U
+U is NOT ready
+testing V
+V is NOT ready
+testing W
+W is NOT ready
+testing Y
+Y is ready
+A required Y
+A still needs ['S', 'E', 'O', 'M']
+L required Y
+L still needs []
+O required Y
+O still needs []
+Q required Y
+Q still needs []
+R required Y
+R still needs ['C', 'S', 'A', 'K', 'Z', 'M']
+Z required Y
+Z still needs ['M', 'E']
+items ['A', 'B', 'C', 'E', 'F', 'G', 'I', 'J', 'K', 'L', 'M', 'O', 'Q', 'R', 'S', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['S', 'E', 'O', 'M'], 'C': ['O'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'C'], 'D': [], 'G': ['O'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C', 'L'], 'I': ['E', 'S', 'G'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['L', 'S', 'O', 'C'], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': ['O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I', 'E', 'C'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'Y': [], 'X': [], 'Z': ['M', 'E']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing L
+L is ready
+F required L
+F still needs ['M', 'Z', 'V', 'U', 'B', 'W', 'C']
+M required L
+M still needs ['S', 'O', 'C']
+items ['A', 'B', 'C', 'E', 'F', 'G', 'I', 'J', 'K', 'M', 'O', 'Q', 'R', 'S', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['S', 'E', 'O', 'M'], 'C': ['O'], 'B': ['Q', 'A', 'O', 'G'], 'E': ['G', 'C'], 'D': [], 'G': ['O'], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C'], 'I': ['E', 'S', 'G'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['S', 'O', 'C'], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': ['O'], 'R': ['C', 'S', 'A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I', 'E', 'C'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'Y': [], 'X': [], 'Z': ['M', 'E']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing M
+M is NOT ready
+testing O
+O is ready
+A required O
+A still needs ['S', 'E', 'M']
+C required O
+C still needs []
+B required O
+B still needs ['Q', 'A', 'G']
+G required O
+G still needs []
+M required O
+M still needs ['S', 'C']
+S required O
+S still needs []
+items ['A', 'B', 'C', 'E', 'F', 'G', 'I', 'J', 'K', 'M', 'Q', 'R', 'S', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['S', 'E', 'M'], 'C': [], 'B': ['Q', 'A', 'G'], 'E': ['G', 'C'], 'D': [], 'G': [], 'F': ['M', 'Z', 'V', 'U', 'B', 'W', 'C'], 'I': ['E', 'S', 'G'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G', 'C'], 'M': ['S', 'C'], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['C', 'S', 'A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I', 'E', 'C'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'Y': [], 'X': [], 'Z': ['M', 'E']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing C
+C is ready
+E required C
+E still needs ['G']
+F required C
+F still needs ['M', 'Z', 'V', 'U', 'B', 'W']
+J required C
+J still needs ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G']
+M required C
+M still needs ['S']
+R required C
+R still needs ['S', 'A', 'K', 'Z', 'M']
+U required C
+U still needs ['R', 'K', 'M', 'I', 'E']
+items ['A', 'B', 'E', 'F', 'G', 'I', 'J', 'K', 'M', 'Q', 'R', 'S', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['S', 'E', 'M'], 'C': [], 'B': ['Q', 'A', 'G'], 'E': ['G'], 'D': [], 'G': [], 'F': ['M', 'Z', 'V', 'U', 'B', 'W'], 'I': ['E', 'S', 'G'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R', 'G'], 'M': ['S'], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['S', 'A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I', 'E'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'Y': [], 'X': [], 'Z': ['M', 'E']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing E
+E is NOT ready
+testing F
+F is NOT ready
+testing G
+G is ready
+B required G
+B still needs ['Q', 'A']
+E required G
+E still needs []
+I required G
+I still needs ['E', 'S']
+J required G
+J still needs ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R']
+items ['A', 'B', 'E', 'F', 'I', 'J', 'K', 'M', 'Q', 'R', 'S', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['S', 'E', 'M'], 'C': [], 'B': ['Q', 'A'], 'E': [], 'D': [], 'G': [], 'F': ['M', 'Z', 'V', 'U', 'B', 'W'], 'I': ['E', 'S'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R'], 'M': ['S'], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['S', 'A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I', 'E'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'Y': [], 'X': [], 'Z': ['M', 'E']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing E
+E is ready
+A required E
+A still needs ['S', 'M']
+I required E
+I still needs ['S']
+U required E
+U still needs ['R', 'K', 'M', 'I']
+Z required E
+Z still needs ['M']
+items ['A', 'B', 'F', 'I', 'J', 'K', 'M', 'Q', 'R', 'S', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['S', 'M'], 'C': [], 'B': ['Q', 'A'], 'E': [], 'D': [], 'G': [], 'F': ['M', 'Z', 'V', 'U', 'B', 'W'], 'I': ['S'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R'], 'M': ['S'], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['S', 'A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M', 'Q'], 'Y': [], 'X': [], 'Z': ['M']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing F
+F is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing M
+M is NOT ready
+testing Q
+Q is ready
+B required Q
+B still needs ['A']
+V required Q
+V still needs ['K', 'W', 'I', 'B', 'A', 'M']
+items ['A', 'B', 'F', 'I', 'J', 'K', 'M', 'R', 'S', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['S', 'M'], 'C': [], 'B': ['A'], 'E': [], 'D': [], 'G': [], 'F': ['M', 'Z', 'V', 'U', 'B', 'W'], 'I': ['S'], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'S', 'K', 'R'], 'M': ['S'], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['S', 'A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M'], 'Y': [], 'X': [], 'Z': ['M']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing F
+F is NOT ready
+testing I
+I is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing M
+M is NOT ready
+testing R
+R is NOT ready
+testing S
+S is ready
+A required S
+A still needs ['M']
+I required S
+I still needs []
+J required S
+J still needs ['I', 'B', 'F', 'A', 'U', 'K', 'R']
+M required S
+M still needs []
+R required S
+R still needs ['A', 'K', 'Z', 'M']
+items ['A', 'B', 'F', 'I', 'J', 'K', 'M', 'R', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['M'], 'C': [], 'B': ['A'], 'E': [], 'D': [], 'G': [], 'F': ['M', 'Z', 'V', 'U', 'B', 'W'], 'I': [], 'H': [], 'K': ['A', 'Z'], 'J': ['I', 'B', 'F', 'A', 'U', 'K', 'R'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M', 'I'], 'T': [], 'W': ['R', 'Z', 'I'], 'V': ['K', 'W', 'I', 'B', 'A', 'M'], 'Y': [], 'X': [], 'Z': ['M']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing F
+F is NOT ready
+testing I
+I is ready
+J required I
+J still needs ['B', 'F', 'A', 'U', 'K', 'R']
+U required I
+U still needs ['R', 'K', 'M']
+W required I
+W still needs ['R', 'Z']
+V required I
+V still needs ['K', 'W', 'B', 'A', 'M']
+items ['A', 'B', 'F', 'J', 'K', 'M', 'R', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': ['M'], 'C': [], 'B': ['A'], 'E': [], 'D': [], 'G': [], 'F': ['M', 'Z', 'V', 'U', 'B', 'W'], 'I': [], 'H': [], 'K': ['A', 'Z'], 'J': ['B', 'F', 'A', 'U', 'K', 'R'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['A', 'K', 'Z', 'M'], 'U': ['R', 'K', 'M'], 'T': [], 'W': ['R', 'Z'], 'V': ['K', 'W', 'B', 'A', 'M'], 'Y': [], 'X': [], 'Z': ['M']})
+testing A
+A is NOT ready
+testing B
+B is NOT ready
+testing F
+F is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing M
+M is ready
+A required M
+A still needs []
+F required M
+F still needs ['Z', 'V', 'U', 'B', 'W']
+R required M
+R still needs ['A', 'K', 'Z']
+U required M
+U still needs ['R', 'K']
+V required M
+V still needs ['K', 'W', 'B', 'A']
+Z required M
+Z still needs []
+items ['A', 'B', 'F', 'J', 'K', 'R', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': ['A'], 'E': [], 'D': [], 'G': [], 'F': ['Z', 'V', 'U', 'B', 'W'], 'I': [], 'H': [], 'K': ['A', 'Z'], 'J': ['B', 'F', 'A', 'U', 'K', 'R'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['A', 'K', 'Z'], 'U': ['R', 'K'], 'T': [], 'W': ['R', 'Z'], 'V': ['K', 'W', 'B', 'A'], 'Y': [], 'X': [], 'Z': []})
+testing A
+A is ready
+B required A
+B still needs []
+K required A
+K still needs ['Z']
+J required A
+J still needs ['B', 'F', 'U', 'K', 'R']
+R required A
+R still needs ['K', 'Z']
+V required A
+V still needs ['K', 'W', 'B']
+items ['B', 'F', 'J', 'K', 'R', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': ['Z', 'V', 'U', 'B', 'W'], 'I': [], 'H': [], 'K': ['Z'], 'J': ['B', 'F', 'U', 'K', 'R'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['K', 'Z'], 'U': ['R', 'K'], 'T': [], 'W': ['R', 'Z'], 'V': ['K', 'W', 'B'], 'Y': [], 'X': [], 'Z': []})
+testing B
+B is ready
+F required B
+F still needs ['Z', 'V', 'U', 'W']
+J required B
+J still needs ['F', 'U', 'K', 'R']
+V required B
+V still needs ['K', 'W']
+items ['F', 'J', 'K', 'R', 'U', 'V', 'W', 'Z']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': ['Z', 'V', 'U', 'W'], 'I': [], 'H': [], 'K': ['Z'], 'J': ['F', 'U', 'K', 'R'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['K', 'Z'], 'U': ['R', 'K'], 'T': [], 'W': ['R', 'Z'], 'V': ['K', 'W'], 'Y': [], 'X': [], 'Z': []})
+testing F
+F is NOT ready
+testing J
+J is NOT ready
+testing K
+K is NOT ready
+testing R
+R is NOT ready
+testing U
+U is NOT ready
+testing V
+V is NOT ready
+testing W
+W is NOT ready
+testing Z
+Z is ready
+F required Z
+F still needs ['V', 'U', 'W']
+K required Z
+K still needs []
+R required Z
+R still needs ['K']
+W required Z
+W still needs ['R']
+items ['F', 'J', 'K', 'R', 'U', 'V', 'W']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': ['V', 'U', 'W'], 'I': [], 'H': [], 'K': [], 'J': ['F', 'U', 'K', 'R'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': ['K'], 'U': ['R', 'K'], 'T': [], 'W': ['R'], 'V': ['K', 'W'], 'Y': [], 'X': [], 'Z': []})
+testing F
+F is NOT ready
+testing J
+J is NOT ready
+testing K
+K is ready
+J required K
+J still needs ['F', 'U', 'R']
+R required K
+R still needs []
+U required K
+U still needs ['R']
+V required K
+V still needs ['W']
+items ['F', 'J', 'R', 'U', 'V', 'W']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': ['V', 'U', 'W'], 'I': [], 'H': [], 'K': [], 'J': ['F', 'U', 'R'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': [], 'U': ['R'], 'T': [], 'W': ['R'], 'V': ['W'], 'Y': [], 'X': [], 'Z': []})
+testing F
+F is NOT ready
+testing J
+J is NOT ready
+testing R
+R is ready
+J required R
+J still needs ['F', 'U']
+U required R
+U still needs []
+W required R
+W still needs []
+items ['F', 'J', 'U', 'V', 'W']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': ['V', 'U', 'W'], 'I': [], 'H': [], 'K': [], 'J': ['F', 'U'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': [], 'U': [], 'T': [], 'W': [], 'V': ['W'], 'Y': [], 'X': [], 'Z': []})
+testing F
+F is NOT ready
+testing J
+J is NOT ready
+testing U
+U is ready
+F required U
+F still needs ['V', 'W']
+J required U
+J still needs ['F']
+items ['F', 'J', 'V', 'W']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': ['V', 'W'], 'I': [], 'H': [], 'K': [], 'J': ['F'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': [], 'U': [], 'T': [], 'W': [], 'V': ['W'], 'Y': [], 'X': [], 'Z': []})
+testing F
+F is NOT ready
+testing J
+J is NOT ready
+testing V
+V is NOT ready
+testing W
+W is ready
+F required W
+F still needs ['V']
+V required W
+V still needs []
+items ['F', 'J', 'V']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': ['V'], 'I': [], 'H': [], 'K': [], 'J': ['F'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': [], 'U': [], 'T': [], 'W': [], 'V': [], 'Y': [], 'X': [], 'Z': []})
+testing F
+F is NOT ready
+testing J
+J is NOT ready
+testing V
+V is ready
+F required V
+F still needs []
+items ['F', 'J']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': [], 'I': [], 'H': [], 'K': [], 'J': ['F'], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': [], 'U': [], 'T': [], 'W': [], 'V': [], 'Y': [], 'X': [], 'Z': []})
+testing F
+F is ready
+J required F
+J still needs []
+items ['J']
+defaultdict(<type 'list'>, {'A': [], 'C': [], 'B': [], 'E': [], 'D': [], 'G': [], 'F': [], 'I': [], 'H': [], 'K': [], 'J': [], 'M': [], 'L': [], 'O': [], 'N': [], 'Q': [], 'P': [], 'S': [], 'R': [], 'U': [], 'T': [], 'W': [], 'V': [], 'Y': [], 'X': [], 'Z': []})
+testing J
+J is ready
+order HPDTNXYLOCGEQSIMABZKRUWVFJ
+remaining []
